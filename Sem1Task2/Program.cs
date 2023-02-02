@@ -16,6 +16,7 @@ if (inputNum1 != null && inputNum2 != null)
     int number1=int.Parse(inputNum1);
     int number2=int.Parse(inputNum2);
     if (number1>number2)
+    // Выводим данные в консоль
     {
         Console.Write ("Число ");
         Console.Write (number1);
