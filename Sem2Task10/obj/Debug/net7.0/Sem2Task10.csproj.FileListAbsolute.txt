@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\bin\Debug\net7.0\Sem2Task10.exe
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\bin\Debug\net7.0\Sem2Task10.deps.json
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\bin\Debug\net7.0\Sem2Task10.runtimeconfig.json
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\bin\Debug\net7.0\Sem2Task10.dll
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\bin\Debug\net7.0\Sem2Task10.pdb
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.dll
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\refint\Sem2Task10.dll
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.pdb
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\Sem2Task10.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\G3841\Sem2Task10\obj\Debug\net7.0\ref\Sem2Task10.dll
