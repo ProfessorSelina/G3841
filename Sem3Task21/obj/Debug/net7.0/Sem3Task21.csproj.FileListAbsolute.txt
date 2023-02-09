@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\bin\Debug\net7.0\Sem3Task21.exe
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\bin\Debug\net7.0\Sem3Task21.deps.json
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\bin\Debug\net7.0\Sem3Task21.runtimeconfig.json
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\bin\Debug\net7.0\Sem3Task21.dll
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\bin\Debug\net7.0\Sem3Task21.pdb
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.dll
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\refint\Sem3Task21.dll
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.pdb
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\Sem3Task21.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\G3841\Sem3Task21\obj\Debug\net7.0\ref\Sem3Task21.dll
