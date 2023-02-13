@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\bin\Debug\net7.0\Sem4Task25.exe
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\bin\Debug\net7.0\Sem4Task25.deps.json
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\bin\Debug\net7.0\Sem4Task25.runtimeconfig.json
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\bin\Debug\net7.0\Sem4Task25.dll
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\bin\Debug\net7.0\Sem4Task25.pdb
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.dll
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\refint\Sem4Task25.dll
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.pdb
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\Sem4Task25.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\G3841\Sem4Task25\obj\Debug\net7.0\ref\Sem4Task25.dll
