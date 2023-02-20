@@ -62,5 +62,6 @@ int findeNum = ReadData("Введите число ");
 
 int[,] arr2DFibo = Gen2DArrFibo(column, row);
 
+// Вывод результата
 Console.WriteLine();
 SerchElemAndPrint(arr2DFibo, findeNum);
