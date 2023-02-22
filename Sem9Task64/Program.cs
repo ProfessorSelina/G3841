@@ -18,5 +18,5 @@ void PrintNumbers(int n)
 }
 
 // Примеры вызова функции PrintNumbers:
-PrintNumbers(5); // выводит "5, 4, 3, 2, 1, "
-PrintNumbers(8); // выводит "8, 7, 6, 5, 4, 3, 2, 1, "
+PrintNumbers(5);
+PrintNumbers(8);
